@@ -15,6 +15,7 @@ void space :: input( int a, int b, int c)
     x = a;
     y = b;
     z = c;
+    
 }
 void space :: output(void)
 { cout <<" x =" <<x<< " ";
